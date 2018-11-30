@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image motherboard, spanner, hammer] (https://images.stockfreeimages.com/813/sfixl/8130748.jpg)
