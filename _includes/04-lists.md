@@ -1,1 +1,14 @@
-Replace this with a list of your favorite things.
+- Hanging out with my girlfriend and our dogs.
+  - Cindy(GF)
+  - Franco(Pug)
+  - Lucas(Dorkie)
+- Spending time with my children
+  - Jack
+  - Lorin
+  - Blake
+  - Eliza
+- Learning and Reading
+- Making and trying new foods
+- Arkham Horror
+- Vermintide
+- My Raspberry Pi
