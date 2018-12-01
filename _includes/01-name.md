@@ -1,1 +1,1 @@
-# Allen McLain, Old and New school technologist.
+# Allen McLain, Dedicated to Learning and Building for a better tomorrow.
