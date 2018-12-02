@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Allen McLain, Dedicated to learning and helping build better communities.
