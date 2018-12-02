@@ -1,1 +1,1 @@
-![myGithubURL](https://github.com/allenmclain417)
+![Please visit my Github](https://github.com/allenmclain417)
