@@ -1,15 +1,24 @@
 ## My World
 - Hanging out with my girlfriend and our dogs.
-  - Cindy(GF)
-  - Franco(Pug)
-  - Lucas(Dorkie)
+  - Watching movies on Netflix
+  - Eating Homemade popcorn
+  - Walking in our neighborhood together
+  - Trying new foods in our crockpot
 - Spending time with my children
-  - Jack
-  - Lorin
-  - Blake
-  - Eliza
+  - Campin in the summer
+  - Seeing the countryside on spring break
+  - Swimming at the beach
+  - Riding rollercoasters at amusment parks
 - Learning and Reading
+  - Robotics
+  - Programming
+  - Electronics
+  - Design
+  - Artificial Intelligence
 - Making and trying new foods
 - Arkham Horror
 - Vermintide
 - My Raspberry Pi
+  - Server basics
+  - Linux
+  - Console
