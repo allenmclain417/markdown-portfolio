@@ -1,1 +1,1 @@
-![Image motherboard, spanner, hammer](https://images.stockfreeimages.com/813/sfixl/8130748.jpg)
+![Robot arm and text](http://www.paccusa.org/wp-content/uploads/2016/10/Robotics.jpg)
