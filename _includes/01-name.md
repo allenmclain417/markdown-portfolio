@@ -1,1 +1,1 @@
-# Allen McLain, Dedicated to Learning and Building for a better tomorrow.
+# Allen McLain, Dedicated to learning and helping build better communities.
